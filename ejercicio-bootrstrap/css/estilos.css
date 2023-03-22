@@ -1,0 +1,10 @@
+body {
+    background-color: beige;
+}
+/*Creamos un estilo para el contenedor principal diferente a la clase .container de Bootstrap para no inferir en sus estilos */
+.principal{
+    background-color: bisque;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 20px;
+}
